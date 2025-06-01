@@ -1,0 +1,14 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+* {
+  scrollbar-width: none;
+}
+
+:root {
+  --dark: #222831;
+  --primary: #393E46;
+
+  --light: #DFD0B8;
+  --secondary: #948979;
+}
